@@ -41,41 +41,26 @@
 
 # FUNCTIONALITIES :
 
-Signup / Register <img src="">
-
-Login / Signin <img src="">
-
-Authentication <img src="">
-
-Sharing / ADD New Posts <img src="">
-
-Search user <img src="">
-
-Follow user <img src="">
-
-Unfollow user <img src="">
-
-Like Posts <img src="">
-
-Comment on posts <img src="">
-
-Latest Post Feed <img src="">
-
-Customized profile section <img src="">
-
-Complete post details <img src="">
-
-Responsive APP <img src="">
-
-Delete Own Posts <img src="">
-
-Profile Image Update <img src="">
-
-Loadmore button for paging <img src="">
+<li> Signup / Register </li> 
+<li> Login / Signin </li> 
+<li> Authentication </li> 
+<li> Sharing / ADD New Posts </li> 
+<li> Search user </li>
+<li> Follow user </li>
+<li> Unfollow user </li>
+<li> Like Posts </li>
+<li> Comment on posts </li>
+<li> Latest Post Feed </li>
+<li> Customized profile section </li>
+<li> Complete post details </li>
+<li> Responsive APP </li>
+<li> Delete Own Posts </li>
+<li> Profile Image Update </li>
+<li> Loadmore button for paging </li>
 
 # Technologies Used :
 
-### For Frontend :-  
+### For Frontend :-  <img src="https://img.shields.io/badge/Client-Side-%238E44AD?labelColor=%2300FF8B">
 <ul>
     <li> HTML </li>
     <li> CSS </li>
@@ -83,19 +68,19 @@ Loadmore button for paging <img src="">
     <li> React.js </li>
 </ul>
 
-### For Backend :-
+### For Backend :- <img src="https://img.shields.io/badge/Server-Side-%238E44AD?labelColor=%2300FF8B">
 <ul>
   <li> Node.js </li>
   <li> Express.js </li>
   <li> REST API </li>
 </ul>
 
-### Database used :-
+### Database used :- <img src="https://img.shields.io/badge/DB_-Used-%2348C9B0?labelColor=%23E74C3C">
 <ul>
   <li> MongoDB </li>
 </ul>
 
-### Tools :-
+### Tools :- <img src="https://img.shields.io/badge/Tools_-Used-%2348C9B0?labelColor=%23E74C3C">
 <ul>
   <li> Git </li>
   <li> GitHub </li>
@@ -104,7 +89,7 @@ Loadmore button for paging <img src="">
   <li> Render & Netlify </li>
 </ul>
 
-# Packages Used :
+# Packages Used : <img src="https://img.shields.io/badge/NPM-Packages-lime?labelColor=black">
 
 ### Backend Packages :-
 <ul>    
