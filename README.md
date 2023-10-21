@@ -4,7 +4,7 @@
 
 ### Social Media MERN Web App
 
-### Live Link : https://dreamy-cranachan-ac99e5.netlify.app/
+### Live Link : https://socianweb.netlify.app/
 
 # DEMO :
 
